@@ -74,8 +74,3 @@ In the second module, utilize SQL queries to extract insightful information from
 
 - 687 patients were identified as having 2+ major surgeries or cancer history, indicating complex medical needs.These individuals likely require more intensive care coordination and management due to their conditions.
 
-
-
-#### Key Insights Deck
-
-[Click here to access the presentation](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.pptx)
