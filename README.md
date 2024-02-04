@@ -1,8 +1,6 @@
 # MedicalDataset-Analysis
 
-# HiCounselor Projects Repository
-
-Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of real-world projects I've completed, designed to solve practical problems and build coding confidence.
+Welcome to my HiCounselor Project Medical Dataset Analysis Repository! It is a real-world project, designed to solve practical problems and build coding confidence.
 
 ## Projects
 
