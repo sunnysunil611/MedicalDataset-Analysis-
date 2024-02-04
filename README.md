@@ -6,7 +6,7 @@ Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of
 
 ## Projects
 
-### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Loan%20Analysis/Inputs)
+### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://github.com/sunnysunil611/MedicalDataset-Analysis-/tree/main/Loan%20Analysis/Inputs)
 
 
 #### Overview
@@ -25,12 +25,8 @@ Dive into the world of Fintech with this project! Explore the intricacies of pre
 - Ratings and the role of homeownership in loan approval.
 
 #### Achievements
-Successfully completing the Statistical Loan Analysis project within two days of its December 2023 launch, I secured a top rank on the leaderboard. Unbeknownst to me, by the end of the one-week project period, a total of 1500 participants had attempted this challenge
+Successfully completing the Statistical Loan Analysis project within two days of its December 2023 launch, I secured a top rank on the leaderboard. Unbeknownst to me, by the end of the one-week project period, a total of 1500 participants had attempted this challenge.
 
-
-### [Jan 2024 Project: Medical Dataset Analysis - Using Python and SQL](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis)
-
-![Medical Analysis Project](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Images/Medical%20Analysis%20project.png)
 
 #### Overview
 Welcome to the Healthcare Data Analysis project, focusing on three essential datasets: "hospitalization_details," "medical_examinations," and "names." The project consists of two main modules:
@@ -45,8 +41,7 @@ In the second module, utilize SQL queries to extract insightful information from
 
 #### Approach
 - Cleaned up hospitalization_details.csv (2432 rows × 11 columns) and medical_examinations.csv (2343 rows × 9 columns) with Python and Pandas.
-- 
-   [Click here to explore the code](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Coding/Medical%20Data%20Analysis.ipynb)  I used to clean these datasets:
+  
   
 - Loaded cleaned data into MySQL database through phpAdmin access provided by Hicounselor
 - **Explored these key Business Questions:**
